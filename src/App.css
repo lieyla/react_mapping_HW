@@ -1,0 +1,10 @@
+table{
+  border: solid black 1px;
+}
+tr{
+  display:flex;
+}
+th{
+  border: solid 1px black;
+ padding: 100px;
+}
